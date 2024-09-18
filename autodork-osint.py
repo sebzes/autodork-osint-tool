@@ -90,7 +90,7 @@ print('''
                         │     [2] Advanced Research Engine │
                         │                                  │
                         │       author's discord:          │
-                        │         zalan_l_rizz             │
+                        │            sebzes                │
                         ╰──────────────────────────────────╯
 ''')
 
